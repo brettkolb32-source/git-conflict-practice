@@ -1,1 +1,1 @@
-# git-conflict-practice
+# Maintained by Kolb
