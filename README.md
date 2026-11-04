@@ -1,1 +1,1 @@
-# Maintained by Kolb
+# Written by Brett and maintained by Kolb
